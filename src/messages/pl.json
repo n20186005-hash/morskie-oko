@@ -122,18 +122,18 @@
   },
   "transport": {
     "title": "How to Get Here",
-    "fromCenter": "From Zakopane",
-    "fromCenterDesc": "Take a frequent minibus from Zakopane bus station to the Palenica Białczańska parking lot (30-40 mins).",
+    "fromCenter": "From Zakopane Center",
+    "fromCenterDesc": "Take a frequent minibus from Zakopane bus station or near the train station heading to Morskie Oko (Palenica Białczańska parking lot). The ride takes about 30-40 minutes. Minibuses depart frequently when full.",
     "fromStation": "By Car",
-    "fromStationDesc": "Drive to Palenica Białczańska. Book your parking spot online well in advance.",
-    "fromAirport": "The Hike",
-    "fromAirportDesc": "From the parking lot, it's a 9km hike (about 2 hours) on an asphalt road to reach the lake.",
+    "fromStationDesc": "Drive to the Palenica Białczańska parking lot. You must book your parking spot online in advance through the Tatra National Park (TPN) website. Without a reservation, you may be turned away.",
+    "fromAirport": "From the Airport",
+    "fromAirportDesc": "The nearest international airports are Kraków John Paul II (KRK) and Poprad-Tatry (TAT) in Slovakia. From Kraków airport, you can take a bus or train to Zakopane, then transfer to a minibus to the trail head.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Minibuses are the most convenient way to reach the trail head, especially in high season.",
-    "walking": "Trail Conditions",
-    "walkingDesc": "The trail to Morskie Oko is an easy, paved road suitable for most fitness levels.",
-    "driving": "Accessibility",
-    "drivingDesc": "Horse carriages can take you most of the way, but you still need to walk the last 1.5 kilometers."
+    "publicTransportDesc": "Minibuses (usually marked 'Morskie Oko') are the most convenient and economical way to reach the trail head from Zakopane, especially highly recommended during the busy season when the parking lot fills up quickly.",
+    "walking": "The Hike",
+    "walkingDesc": "From the Palenica Białczańska parking lot, it's a 9km hike (about 2 to 2.5 hours one way) on an asphalt road to reach the lake. The trail is easy, gradual, and suitable for all fitness levels, including families with strollers.",
+    "driving": "Horse-drawn Carriages",
+    "drivingDesc": "If you prefer not to walk the entire way, traditional horse-drawn carriages operated by local highlanders can take you from the parking lot to Włosienica. From there, you still need to walk the last 1.5 km (about 30 minutes) to the lake."
   },
   "route": {
     "title": "Recommended Route",

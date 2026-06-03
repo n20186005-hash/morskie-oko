@@ -19,7 +19,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://brokenchairgeneva.com';
+  const baseUrl = 'https://morskieokolake.com';
   return {
     alternates: {
       canonical: `${baseUrl}/${locale}`,

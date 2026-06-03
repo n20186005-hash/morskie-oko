@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://brokenchairgeneva.com/sitemap.xml',
+    sitemap: 'https://morskieokolake.com/sitemap.xml',
   };
 }
