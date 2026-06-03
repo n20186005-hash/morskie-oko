@@ -1,0 +1,154 @@
+morskie-oko
+
+常见问题解答
+要新增几条 现在2条太少了
+
+
+
+我们网站是
+
+检查一遍看下是否有错误
+
+丰富下页面内容现在的内容还是太薄的了
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Morskie Oko 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+Morskie Oko
+4.8(6,615)
+旅游胜地
+Dolina Rybiego Potoku, 34-500 Zakopane, 波兰
+53WC+V2 札科帕内 波兰
+
+https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\morskie-oko\public\gallery
+
+删除原先友情链接，新增以下友情链接
+波兰共和国外交与签证
+https://www.gov.pl/
+波兰国家旅游局
+https://www.poland.travel/en/
+小波兰省官方旅游门户 - 塔特拉山脉与海洋之眼
+https://visitmalopolska.pl/
+扎科帕内市政府 - 城市档案与自然概况
+https://www.zakopane.pl/
+塔特拉国家公园法定管理数据库
+https://tpn.gov.pl/
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6
+页面一共四个链接每一个都需要修改
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+删除 探索更多 板块
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+
+新增
+
+波兰语
+俄语
+德语
+
+生成一个文件忽略不需要上传的文件
+
+
+给这个单景点买域名.com推荐
+
+
+
+
+
+
+
+1. 国家级（波兰共和国政府与出入境管理）
+定位： 波兰最高国家行政、外交及出入境签证审批中枢。
+
+官方页面： 波兰共和国政府官方门户 - 外交与签证 (gov.pl)
+
+域名背景： gov.pl 是波兰政府的最高核心顶级域名。所有关于波兰申根签证的政策、非欧盟游客的入境许可，均由该统一系统归口管理。
+
+2. 国家级（波兰国家旅游局总库）
+定位： 波兰最高级别的国家级自然与人文旅游资产推广名录。
+
+官方页面： 波兰国家旅游局 - Morskie Oko 官方介绍 (poland.travel)
+
+域名背景： poland.travel 是波兰旅游组织（Polska Organizacja Turystyczna - POT）的法定官方门户。该机构是由波兰体育和旅游部（Ministry of Sport and Tourism）直接管辖的国家级实体。
+
+3. 大区级（小波兰省官方政务与旅游系统）
+定位： Morskie Oko 所在的省级行政单位（小波兰省），负责大区级的区域发展、自然资源统筹和官方地标确权。
+
+官方页面： 小波兰省官方旅游门户 - 塔特拉山脉与海洋之眼 (VisitMalopolska.pl)
+
+域名背景： 该数据库与网站由小波兰省政府（Urząd Marszałkowski Województwa Małopolskiego）直接出资开发并日常维护，是合法合规的大区级政务延展平台。
+
+4. 市级（扎科帕内市政厅官方数据库）
+定位： 辐射并管理 Morskie Oko 入口及周边公共资源的市级政府机构。
+
+官方页面： 扎科帕内市政府 - 城市档案与自然概况 (zakopane.pl)
+
+域名背景： zakopane.pl 是纯正的扎科帕内市（Urząd Miasta Zakopane）市政厅主站，负责记录该市的基础设施、交通接驳规划以及本地环保法令。
+
+5. 专业遗产级（塔特拉国家公园法定管理数据库）
+定位： Morskie Oko 的直接物理拥有者与终极专业管理方。掌管该景点的地质监测、生态保护、门票核发及每日封山/雪崩预警。
+
+官方页面： 波兰塔特拉国家公园官方系统 (tpn.gov.pl / tpn.pl)
+
+域名背景： 波兰塔特拉国家公园（Tatrzański Park Narodowy - TPN）是由波兰气候与环境部设立的国家级法定环境保护执行机构。它的数据库提供最深度的专业环境指标与遗产保护档案。
+
+
+
+我们网站是
+检查下有没有错误
+
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局、出入境管理、的网站友情链接，确保全部具备纯正的官方政府背景：
+
+
+
+顶部标识
+Tatrzański Park Narodowy
+Polskie Parki Narodowe
+大标题
+Morskie Oko
+Morskie Oko Lake
+左侧波兰文
+Morskie Oko (1395 m n.p.m.) to największe (34,54 ha) jezioro w Tatrach. Jego maksymalna głębokość wynosi 50,8 m, a pojemność – ok. 9,9 mln m³. Jezioro zawdzięcza swoje powstanie procesom rzeźbotwórczym epoki lodowej. W miejscu, gdzie łączyły się lodowce spływające z wyżej położonych kotłów, powstała misa jeziorna, która z czasem wypełniła się wodą z topniejących lodowców. Woda w jeziorze charakteryzuje się dużą przezroczystością – ok. 15 m.
+Nazwę „Morskie Oko” nadali turyści. Górale używali nazwy „Rybi Staw”. Morskie Oko to jedyne naturalnie zarybione jezioro w polskiej części Tatr. Żyją w nim pstrągi potokowe.
+Schronisko nad Morskim Okiem jest najstarszym spośród obecnie działających schronisk w polskich Tatrach. Postawiono je w latach 1907–1908. „Stare schronisko”, położone poniżej drogi, to dawna wożownia, wybudowana w roku 1890.
+Warto wiedzieć, że Morskie Oko nie jest jedynym stawem w Dolinie Rybiego Potoku. Popularnym celem wycieczek jest także Czarny Staw pod Rysami, którego kocioł widać znad Morskiego Oka.
+Morskie Oko to najpopularniejsze miejsce w Tatrach. W okresie największego ruchu turystycznego odwiedza je od kilkuset do kilkudziesięciu tysięcy osób dziennie.
+右侧英文
+Morskie Oko is the largest lake in the Tatra Mountains, with an area of 34.5 hectares. It sits at 1,395 meters above sea level, has a maximum depth of 51 meters and contains approximately 9.9 million cubic meters of water. The lake was formed by the sculpting processes of the last ice age. Glaciers, sliding down from above, slowly carved the basin, which gradually filled with water and fine, the suspended particles of glacier-ground rock. Over thousands of years, the fine particles washed away; today the lake boasts clear water with visibility of up to 15 meters.
+The name Morskie Oko – “Eye of the Sea” – was invented by tourists. Highlanders used the name Rybi Staw (“Fish Pond”), referring to the native brown trout that live there.
+The lodge at Morskie Oko, built 1907–1908, is the oldest of the currently operating shelters in the Polish Tatra Mountains. The “old hut,” located below the road, is a former coach house from 1890.
+Morskie Oko is not the only lake in the Rybi Potok Valley. Just up valley is the basin of Czarny Staw, another popular lake immediately below Rysy Peak. Morskie Oko is the most popular destination in the Tatras; in the busiest season, several thousand people might visit it on any given day.
+图片小字标注
+右上配图：Otoczenie Morskiego Oka / Morskie Oko Lake
+左下配图：Czarny Staw pod Rysami / Morskie Oko widziane z Zazieleńca
+
+“Morskie Oko”（海洋之眼）完全属于波兰。  虽然它位于两国交界地带，很容易让人产生混淆，但从行政区划和地理边界来看：地理位置：它位于波兰南部的塔特拉山脉（Tatra Mountains），具体地处小波兰省（Lesser Poland Voivodeship）境内。  归属园区：整个湖泊及其所在的 Rybi Potok 山谷，全部位于波兰的塔特拉国家公园（Tatra National Park）深处。  边境关系：塔特拉山脉本身确实是波兰与斯洛伐克两国的天然国界。Morskie Oko 距离斯洛伐克边境线虽然近在咫尺，但它完完全全落在波兰的领土一侧。因此，这是一个不折不扣的波兰景点，游客前往该地通常也都是从波兰的扎科帕内（Zakopane）出发进山。
+
+参考以上内容完善网站内容

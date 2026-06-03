@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "title": "海洋之眼 (Morskie Oko) – 扎科帕内, 波兰",
+    "description": "海洋之眼 (Morskie Oko) 完整旅游指南。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Morskie Oko",
+    "subtitle": "塔特拉山脉的明珠",
+    "rating": "4.8",
+    "reviewCount": "6,615 条评价",
+    "type": "旅游胜地",
+    "openMaps": "在谷歌地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6"
+  },
+  "intro": {
+    "title": "探索 Morskie Oko (海洋之眼)",
+    "description": "Morskie Oko（海洋之眼）是塔特拉山脉最大的湖泊，面积34.5公顷，海拔1395米。它完全属于波兰境内的塔特拉国家公园。湖泊由冰河时代的冰川雕刻而成，水质清澈，能见度可达15米。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "Morskie Oko 是塔特拉山脉最受欢迎的景点，旺季每天可能有上万人到访，建议尽早出发。",
+        "您可以从扎科帕内 (Zakopane) 出发，徒步前往。",
+        "除了 Morskie Oko，附近的 Czarny Staw pod Rysami 也是非常受欢迎的徒步目的地。",
+        "湖畔的木屋建于 1907-1908 年，是波兰塔特拉山脉目前仍在运营的最古老的避难所。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "塔特拉山脉最大的湖泊 (34.5公顷)",
+        "海拔 1395 米，最深处达 50.8 米",
+        "波兰塔特拉山脉唯一天然有鱼的湖泊 (褐鳟)",
+        "属于波兰塔特拉国家公园 (Tatrzański Park Narodowy)"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于 Morskie Oko",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与起源",
+        "content": "湖泊是由上一次冰河时代的冰川雕刻而成。随着冰川融化，盆地逐渐被水填满。“Morskie Oko”（海洋之眼）这个名字是由游客取的，而当地高地人则称其为“Rybi Staw”（鱼塘），因为这里是波兰塔特拉山脉中唯一天然有鱼（褐鳟）的湖泊。"
+      },
+      {
+        "id": "geography",
+        "title": "地理与归属",
+        "content": "尽管塔特拉山脉是波兰与斯洛伐克的天然国界，Morskie Oko 完全位于波兰一侧的小波兰省境内。整个湖泊及其所在的 Rybi Potok 山谷深处波兰的塔特拉国家公园腹地。因此，这是一个不折不扣的波兰景点。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "items": [
+      {
+        "question": "Morskie Oko 在波兰还是斯洛伐克？",
+        "answer": "Morskie Oko 完全位于波兰境内，属于塔特拉国家公园，尽管它距离斯洛伐克边境很近。"
+      },
+      {
+        "question": "湖水有多深？",
+        "answer": "Morskie Oko 的最大深度为 50.8 米，总蓄水量约为 990 万立方米。"
+      },
+      {
+        "question": "可以在湖里游泳吗？",
+        "answer": "不可以。为了保护塔特拉国家公园脆弱的生态系统，严格禁止游泳、洗澡和喂鱼。"
+      },
+      {
+        "question": "徒步到湖边需要多长时间？",
+        "answer": "从 Palenica Białczańska 停车场出发，沿着柏油路单程步行大约需要 2 到 2.5 小时。"
+      },
+      {
+        "question": "有吃东西的地方吗？",
+        "answer": "有的。湖边有一座历史悠久的 PTTK 避难所（建于1907-1908年），供应热食和饮料。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Morskie Oko",
+    "type": "景点类型",
+    "typeValue": "旅游胜地",
+    "country": "国家",
+    "countryValue": "波兰",
+    "city": "城市",
+    "cityValue": "扎科帕内",
+    "googleRating": "地图评分",
+    "googleRatingValue": "4.8 (6,615)",
+    "address": "地址",
+    "addressValue": "Dolina Rybiego Potoku, 34-500 Zakopane, 波兰",
+    "accessibility": "无障碍设施",
+    "accessibilityValue": "部分可通行",
+    "plusCode": "地理代码",
+    "plusCodeValue": "53WC+V2 札科帕内 波兰"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "塔特拉国家公园",
+    "parkTime": "每天从黎明到黄昏开放",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：融雪形成美丽的瀑布，但步道可能湿滑",
+    "bestTimeSummer": "夏季：非常适合徒步，但游客很多，请尽早出发",
+    "bestTimeAutumn": "秋季：令人惊叹的秋色，天气通常比较稳定",
+    "bestTimeWinter": "冬季：美丽的雪景，但需要适当的冬季装备并注意雪崩风险",
+    "tip": "出发前请务必查看天气预报和 TOPR (塔特拉志愿搜救队) 的警告。"
+  },
+  "tickets": {
+    "title": "门票与停车",
+    "park": "国家公园门票",
+    "parkPrice": "进入塔特拉国家公园需要购买门票（普通票约 9 PLN）",
+    "parking": "Palenica Białczańska 停车场",
+    "parkingPrice": "必须提前在网上预订（根据季节约 45-55 PLN/天）",
+    "guided": "马车服务",
+    "guidedPrice": "从停车场到 Włosienica（距湖约 1.5 公里）提供马车服务，价格另计"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从扎科帕内 (Zakopane)",
+    "fromCenterDesc": "从扎科帕内汽车站乘坐小巴前往 Palenica Białczańska 停车场，车程约 30-40 分钟。",
+    "fromStation": "自驾",
+    "fromStationDesc": "开车前往 Palenica Białczańska 停车场。请务必提前在网上预订车位，旺季很快就会售罄。",
+    "fromAirport": "徒步路线",
+    "fromAirportDesc": "从停车场出发，需要沿着柏油路徒步约 9 公里（约 2 小时）才能到达湖边。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "小巴是从扎科帕内到达步道起点的最便捷方式，特别是在旺季停车场爆满的时候。",
+    "walking": "步道状况",
+    "walkingDesc": "通往 Morskie Oko 的步道是一条平缓的柏油路，适合大多数人的体力水平，包括推婴儿车的家庭。",
+    "driving": "无障碍设施",
+    "drivingDesc": "马车可以带您走完大部分路程，但最后 1.5 公里仍需步行。"
+  },
+  "route": {
+    "title": "推荐路线",
+    "overview": "经典的塔特拉山脉徒步之旅",
+    "steps": [
+      "从 Palenica Białczańska 停车场出发",
+      "沿着风景优美的森林柏油路徒步",
+      "途径 Wodogrzmoty Mickiewicza 瀑布",
+      "抵达 Morskie Oko (海洋之眼) 欣赏美景",
+      "可选：继续向上徒步前往 Czarny Staw pod Rysami"
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "Otoczenie Morskiego Oka / Morskie Oko Lake",
+    "captions": [
+      "Morskie Oko 湖景",
+      "Czarny Staw pod Rysami / Morskie Oko widziane z Zazieleńca",
+      "塔特拉山脉",
+      "湖水倒影",
+      "历史悠久的木屋",
+      "森林步道",
+      "清澈的湖水",
+      "高山风光",
+      "冬季的海洋之眼",
+      "秋季色彩",
+      "步道沿途",
+      "山峰环绕",
+      "游客与自然",
+      "壮丽的岩壁",
+      "宁静的早晨",
+      "波兰国家公园",
+      "徒步者",
+      "美丽的自然景观"
+    ],
+    "viewAll": "在谷歌地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过谷歌地图查看。",
+    "moreReviews": "在谷歌地图上查看更多评价",
+    "items": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "date": "2026-05-10",
+        "text": "非常震撼的雕塑！了解了它背后的反地雷意义后，更觉得意义非凡。"
+      },
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "date": "2026-04-22",
+        "text": "日内瓦必打卡的地标之一。就在联合国门口，广场上的喷泉也很好看。"
+      },
+      {
+        "name": "Elena R.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "巨大而壮观。站在它下面能感受到一种强烈的视觉冲击力。"
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "date": "2026-02-05",
+        "text": "很有教育意义的公共艺术品。交通非常方便，坐电车直接到。"
+      },
+      {
+        "name": "Paula W.",
+        "rating": 5,
+        "date": "2025-10-12",
+        "text": "为了和平与尊严的象征。来到日内瓦一定要来看看。"
+      },
+      {
+        "name": "Sarai M.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "不可思议的木制结构，而且传递的信息非常强大。100%推荐。"
+      },
+      {
+        "name": "Kathy B.",
+        "rating": 5,
+        "date": "2025-08-20",
+        "text": "美丽的纪念碑！！来联合国参观前必定会经过的地方。"
+      },
+      {
+        "name": "Thomas G.",
+        "rating": 4,
+        "date": "2025-07-15",
+        "text": "不仅是一个拍照点，更是对世界和平的呼吁。周围的氛围很好。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Dolina Rybiego Potoku, 34-500 Zakopane, 波兰 (53WC+V2 札科帕内 波兰)",
+    "openMaps": "在谷歌地图上查看位置"
+  },
+  "footer": {
+    "brandName": "Morskie Oko",
+    "brandSubtitle": "Morskie Oko",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "gov": "波兰共和国外交与签证",
+      "poland_travel": "波兰国家旅游局",
+      "visitmalopolska": "小波兰省官方旅游门户 - 塔特拉山脉与海洋之眼",
+      "zakopane": "扎科帕内市政府 - 城市档案与自然概况",
+      "tpn": "塔特拉国家公园法定管理数据库"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "塔特拉国家公园 (Tatrzański Park Narodowy)",
+    "text": "Morskie Oko 位于波兰塔特拉国家公园 (TPN) 内。该公园保护着塔特拉山脉独特的高山景观、植物和动物。游客必须遵守公园规定，包括留在标记的步道上、带走所有垃圾以及不打扰野生动物。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关断椅的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}

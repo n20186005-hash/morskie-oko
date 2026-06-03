@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "title": "Morskie Oko – Zakopane, Poland",
+    "description": "Complete travel guide to Morskie Oko."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Morskie Oko",
+    "subtitle": "The Pearl of the Tatra Mountains",
+    "rating": "4.8",
+    "reviewCount": "6,615 reviews",
+    "type": "Tourist Attraction",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6"
+  },
+  "intro": {
+    "title": "Explore Morskie Oko",
+    "description": "Morskie Oko (1395 m n.p.m.) to największe (34,54 ha) jezioro w Tatrach. Jego maksymalna głębokość wynosi 50,8 m. Jezioro zawdzięcza swoje powstanie procesom rzeźbotwórczym epoki lodowej. Woda w jeziorze charakteryzuje się dużą przezroczystością – ok. 15 m.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Morskie Oko is the most popular destination in the Tatras. In the busiest season, several thousand people visit daily, so start your trip early.",
+        "The lake is accessible from Zakopane via a scenic hike.",
+        "Don't miss Czarny Staw pod Rysami, another beautiful lake located just up the valley.",
+        "The lodge at Morskie Oko, built in 1907–1908, is the oldest operating shelter in the Polish Tatras."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Largest lake in the Tatra Mountains (34.5 ha)",
+        "Located at 1,395 meters above sea level, 50.8m deep",
+        "Natural habitat for brown trout",
+        "Tatrzański Park Narodowy / Polskie Parki Narodowe"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Morskie Oko",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Formation",
+        "content": "The lake was formed by the sculpting processes of the last ice age. Glaciers slowly carved the basin, which gradually filled with water. The name 'Morskie Oko' (Eye of the Sea) was invented by tourists, while locals called it 'Rybi Staw' (Fish Pond) because it's the only naturally stocked lake in the Polish Tatras."
+      },
+      {
+        "id": "geography",
+        "title": "Geography & Borders",
+        "content": "Although the Tatra Mountains serve as a natural border between Poland and Slovakia, Morskie Oko belongs entirely to Poland. It is located deep within the Tatra National Park in the Lesser Poland Voivodeship, making it a purely Polish attraction."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Is Morskie Oko in Poland or Slovakia?",
+        "answer": "Morskie Oko is located entirely within Poland, in the Tatra National Park, though it is close to the Slovak border."
+      },
+      {
+        "question": "How deep is the lake?",
+        "answer": "The maximum depth of Morskie Oko is 50.8 meters, containing about 9.9 million cubic meters of water."
+      },
+      {
+        "question": "Can you swim in Morskie Oko?",
+        "answer": "No, swimming, bathing, and feeding the fish are strictly prohibited to protect the delicate ecosystem."
+      },
+      {
+        "question": "How long is the hike?",
+        "answer": "The walk from the Palenica Białczańska parking lot takes about 2 to 2.5 hours one way along an asphalt road."
+      },
+      {
+        "question": "Are there places to eat?",
+        "answer": "Yes, there is a historic PTTK mountain shelter by the lake that serves hot meals and drinks."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Morskie Oko",
+    "type": "Attraction Type",
+    "typeValue": "Tourist Attraction",
+    "country": "Country",
+    "countryValue": "Poland",
+    "city": "City",
+    "cityValue": "Zakopane",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.8 (6,615)",
+    "address": "Address",
+    "addressValue": "Dolina Rybiego Potoku, 34-500 Zakopane, Poland",
+    "accessibility": "Accessibility",
+    "accessibilityValue": "Partial",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "53WC+V2 Zakopane, Poland"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Tatra National Park",
+    "parkTime": "Open daily from dawn to dusk",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Melting snows create beautiful waterfalls, but trails may be slippery",
+    "bestTimeSummer": "Summer: Perfect for hiking, but very crowded. Start early in the morning",
+    "bestTimeAutumn": "Autumn: Stunning autumn colors and generally stable weather",
+    "bestTimeWinter": "Winter: Beautiful snowy landscapes, requires proper winter gear",
+    "tip": "Always check the weather forecast and TOPR avalanche warnings before your hike."
+  },
+  "tickets": {
+    "title": "Admission & Parking",
+    "park": "National Park Entrance",
+    "parkPrice": "A ticket to the Tatra National Park is required (approx. 9 PLN)",
+    "parking": "Palenica Białczańska Parking",
+    "parkingPrice": "Must be booked online in advance (approx. 45-55 PLN per day)",
+    "guided": "Horse-drawn Carriages",
+    "guidedPrice": "Available from the parking lot to Włosienica (approx. 1.5 km from the lake)"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Zakopane",
+    "fromCenterDesc": "Take a frequent minibus from Zakopane bus station to the Palenica Białczańska parking lot (30-40 mins).",
+    "fromStation": "By Car",
+    "fromStationDesc": "Drive to Palenica Białczańska. Book your parking spot online well in advance.",
+    "fromAirport": "The Hike",
+    "fromAirportDesc": "From the parking lot, it's a 9km hike (about 2 hours) on an asphalt road to reach the lake.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Minibuses are the most convenient way to reach the trail head, especially in high season.",
+    "walking": "Trail Conditions",
+    "walkingDesc": "The trail to Morskie Oko is an easy, paved road suitable for most fitness levels.",
+    "driving": "Accessibility",
+    "drivingDesc": "Horse carriages can take you most of the way, but you still need to walk the last 1.5 kilometers."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "A Classic Tatra Mountain Hike",
+    "steps": [
+      "Start at Palenica Białczańska parking lot",
+      "Hike the scenic asphalt road through the forest",
+      "Pass the Wodogrzmoty Mickiewicza waterfalls",
+      "Arrive at Morskie Oko and enjoy the view",
+      "Optional: Continue the hike up to Czarny Staw pod Rysami"
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Otoczenie Morskiego Oka / Morskie Oko Lake",
+    "captions": [
+      "Morskie Oko View",
+      "Czarny Staw pod Rysami / Morskie Oko widziane z Zazieleńca",
+      "Tatra Mountains",
+      "Lake Reflections",
+      "Historic Lodge",
+      "Forest Trail",
+      "Clear Waters",
+      "Alpine Scenery",
+      "Winter at Morskie Oko",
+      "Autumn Colors",
+      "Along the Trail",
+      "Surrounding Peaks",
+      "Visitors and Nature",
+      "Majestic Cliffs",
+      "Peaceful Morning",
+      "National Park Nature",
+      "Hikers",
+      "Beautiful Landscapes"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "date": "2026-05-10",
+        "text": "A very powerful sculpture! Learning about its anti-landmine message makes it even more meaningful."
+      },
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "date": "2026-04-22",
+        "text": "A must-see landmark in Geneva. It's right in front of the UN, and the fountains in the square are beautiful too."
+      },
+      {
+        "name": "Elena R.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Massive and spectacular. Standing underneath it gives you a strong visual impact."
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "date": "2026-02-05",
+        "text": "A very educational piece of public art. Very easy to get to, the tram stops right there."
+      },
+      {
+        "name": "Paula W.",
+        "rating": 5,
+        "date": "2025-10-12",
+        "text": "A symbol of peace and dignity. You must come and see it when in Geneva."
+      },
+      {
+        "name": "Sarai M.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Incredible wooden structure, and the message it conveys is very powerful. 100% recommended."
+      },
+      {
+        "name": "Kathy B.",
+        "rating": 5,
+        "date": "2025-08-20",
+        "text": "Beautiful monument!! You'll definitely pass by it before taking the UN tour."
+      },
+      {
+        "name": "Thomas G.",
+        "rating": 4,
+        "date": "2025-07-15",
+        "text": "Not just a photo spot, but an appeal for world peace. The atmosphere around it is great."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Dolina Rybiego Potoku, 34-500 Zakopane, Poland (53WC+V2 Zakopane, Poland)",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Morskie Oko",
+    "brandSubtitle": "Morskie Oko",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "gov": "Ministry of Foreign Affairs Republic of Poland",
+      "poland_travel": "Polish Tourism Organisation",
+      "visitmalopolska": "Małopolska Tourist Portal - Tatra Mountains & Morskie Oko",
+      "zakopane": "Zakopane City Hall",
+      "tpn": "Tatra National Park"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "officialManagement": {
+    "title": "Tatra National Park (Tatrzański Park Narodowy)",
+    "text": "Morskie Oko is located within the Polish Tatra National Park (TPN). The park protects the unique alpine landscapes, flora, and fauna of the Tatra Mountains. Visitors must adhere to park rules, including staying on marked trails, carrying out all trash, and not disturbing wildlife."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and historical information about Broken Chair. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
+  }
+}
